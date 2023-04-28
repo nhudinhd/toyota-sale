@@ -1,0 +1,35 @@
+.vehicles-banner {
+    max-height: 750px;
+    margin: auto;
+    max-width: 1600px;
+}
+
+.vehicles-banner img {
+    width: 100%;
+    height: 100%;
+}
+
+#vehicles-container{
+    margin-top: 115px;
+}
+
+.vehicles-content-list {
+    background-color: #F5F5F5;
+    padding-top: 40px;
+}
+
+.vehicles-show-conntanin {
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 80px;
+}
+
+.list-car {
+    display: flex;
+}
+
+.vehicle-item {
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}

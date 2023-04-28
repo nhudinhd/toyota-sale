@@ -1,6 +1,4 @@
 window.onload = function () {
-  var test = document.getElementById('previous');
-  console.log(test)
   document.getElementById("previous").onclick = function () {
     let imgSrc;
     let activeNow;
